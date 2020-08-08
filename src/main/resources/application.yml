@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Ecabs Test Project  rabbitmq:    host: 172.18.82.111
+    username: ecabs
+    password: ecabs
+  datasource:
+    url: jdbc:h2:mem:ecabs
+    username: sa
+    password: 
